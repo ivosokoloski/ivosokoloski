@@ -9,5 +9,4 @@
 ivosokoloski/ivosokoloski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=10&pause=1000&multiline=true&width=435&lines=Hello+I'm+ivosokoloski%2C++a+student+of+Computer+Science+and+Engineering)](https://git.io/typing-svg)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=10&pause=1000&multiline=true&width=435&lines=Hello+I'm+ivosokoloski%2C++a+student+of+Computer+Science+and+Engineering" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&width=435&lines=Hello+I'm+ivosokoloski%2C++a+student+of+Computer+Science+and+Engineering)](https://git.io/typing-svg)
