@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1B791A&multiline=true&width=540&height=60&lines=Hello%2C+I'm+Ivo+Sokoloski;A+student+of+Computer+Science+and+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1B791A&multiline=true&repeat=false&width=540&height=60&lines=Hello%2C+I'm+Ivo+Sokoloski;A+student+of+Computer+Science+and+Engineering)](https://git.io/typing-svg)
