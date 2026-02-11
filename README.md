@@ -16,7 +16,7 @@ I embrace new technologies with **genuine curiosity and dedication**, and althou
 
 ---
 
-[Download CV](./Ivo_Sokoloski_CV.pdf)
+[Download CV](./Ivo_Sokoloski_CV_en.pdf)
 
 ## 🧠 Technical Skills
 
