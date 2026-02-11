@@ -2,23 +2,23 @@
 
 
 
-# 👨‍💻 Компјутерски науки и инженерство
+# 👨‍💻 Computer Science and Engineering
 
-### 🎓 Студент 
+### 🎓 Student 
 
-Здраво! 👋
+Hello! 👋
 
-Јас сум студент на **Компјутерски науки и инженерство** со силна мотивација за учење и создавање **практични, функционални и одржливи софтверски решенија**. Активно работам на задачи и проекти во текот на студиите, со фокус на стекнување длабоко разбирање на технологиите што ги користам.
+I am a student of **Computer Science and Engineering** with strong motivation for learning and creating **practical, functional, and sustainable software solutions**. I actively work on assignments and projects throughout my studies, with a focus on gaining a deep understanding of the technologies I use.
 
-Сите мои проекти и вежби се достапни на мојот **GitHub профил**, каде што редовно го документирам процесот на учење, експериментирање и унапредување на моите вештини.
+All of my projects and exercises are available on my **GitHub profile**, where I regularly document the process of learning, experimenting, and improving my skills.
 
-Новите технологии ги прифаќам со **искрена љубопитност и посветеност**, а иако сѐ уште немам тесна специјализација, отворен сум за истражување на различни домени во компјутерските науки. Моја цел е градење на **широка и силна основа** која ќе ми овозможи значаен и долгорочен придонес во технолошката индустрија.
+I embrace new technologies with **genuine curiosity and dedication**, and although I still do not have a narrow specialization, I am open to exploring different domains within computer science. My goal is building a **broad and strong foundation** that will enable me to make a meaningful and long-term contribution to the technology industry.
 
 ---
 
-[Преземи CV](./Ivo_Sokoloski_CV.pdf)
+[Download CV](./Ivo_Sokoloski_CV.pdf)
 
-## 🧠 Технички вештини
+## 🧠 Technical Skills
 
 <p float="left">
   <!-- Frontend -->
@@ -57,10 +57,9 @@
 </p>
 ---
 
-### 🚀 Фокус и цели
+### 🚀 Focus and Goals
 
-* Континуирано унапредување на програмерските вештини
-* Работа на реални и практични проекти
-* Истражување на различни области во компјутерските науки
-* Подготовка за професионален развој и индустриска кариера
-
+* Continuous improvement of programming skills
+* Working on real and practical projects
+* Exploring different areas within computer science
+* Preparation for professional development and an industry career
