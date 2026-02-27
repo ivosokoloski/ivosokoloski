@@ -6,7 +6,7 @@
 
 ### 🎓 Student 
 
-Hello! 👋
+Hello! 
 
 I am a student of **Computer Science and Engineering** with strong motivation for learning and creating **practical, functional, and sustainable software solutions**. I actively work on assignments and projects throughout my studies, with a focus on gaining a deep understanding of the technologies I use.
 
