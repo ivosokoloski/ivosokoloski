@@ -9,8 +9,6 @@
 
 I am a student of **Computer Science and Engineering** with strong motivation for learning and creating **practical, functional, and sustainable software solutions**. I actively work on assignments and projects throughout my studies, with a focus on gaining a deep understanding of the technologies I use.
 
-All of my projects and exercises are available on my **GitHub profile**, where I regularly document the process of learning, experimenting, and improving my skills.
-
 I embrace new technologies with **genuine curiosity and dedication**, and although I still do not have a narrow specialization, I am open to exploring different domains within computer science. My goal is building a **broad and strong foundation** that will enable me to make a meaningful and long-term contribution to the technology industry.
 
 ---
